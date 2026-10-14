@@ -1,0 +1,6 @@
+name = "beyyacht"
+compatibility_date = "2026-10-14"
+
+[assets]
+directory = "./public"   # index.html ve assets/ klasörünün bulunduğu dizin
+binding = "ASSETS"       # Cloudflare'in statik varlıkları bağlaması için gerekli
